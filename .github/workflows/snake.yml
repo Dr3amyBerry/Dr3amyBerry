@@ -1,0 +1,47 @@
+name: Serpiente de contribuciones
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+  push:
+    paths:
+      - '.github/workflows/snake.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: serpiente-de-contribuciones
+  cancel-in-progress: false
+
+jobs:
+  generar-serpiente:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Crear serpiente personalizada
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Dr3amyBerry
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=%239d63ff&color_dots=%230b1511,%231b4930,%232a8d43,%2339c958,%235bff72
+
+      - name: Actualizar SVG en main solo si cambió
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s dist/snake-dark.svg
+          mkdir -p assets
+          cp dist/snake-dark.svg assets/snake-dark.svg
+          git add assets/snake-dark.svg
+          if git diff --cached --quiet; then
+            echo 'La animación ya está actualizada.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore(profile): actualizar serpiente animada'
+          git push origin HEAD:main
