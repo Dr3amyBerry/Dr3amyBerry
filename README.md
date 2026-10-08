@@ -6,8 +6,6 @@
   <img src="./assets/hero.png" width="100%" alt="RigorCore: avatar cúbico vestido de morado y gato con auriculares verdes" />
 </a>
 
-<br /><br />
-
 <a href="https://rigorcore.com"><img alt="Página de RigorCore" src="https://img.shields.io/badge/RIGORCORE-Sitio%20web-101b14?style=for-the-badge&logo=googlechrome&logoColor=64ff7a&labelColor=141c17" /></a>
 <a href="https://github.com/Dr3amyBerry?tab=repositories"><img alt="Mis repositorios" src="https://img.shields.io/badge/PROYECTOS-Ver%20repositorios-101b14?style=for-the-badge&logo=github&logoColor=aa78ff&labelColor=141c17" /></a>
 <a href="mailto:contact@rigorcore.com"><img alt="Contacto" src="https://img.shields.io/badge/CONTACTO-Escríbeme-101b14?style=for-the-badge&logo=gmail&logoColor=64ff7a&labelColor=141c17" /></a>
@@ -50,12 +48,7 @@ Mis intereses se centran en **desarrollo web y móvil**, **diseño de interfaces
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>🗜️ <a href="https://github.com/Dr3amyBerry/N64Compress">N64Compress</a></h3>
-<p>Una utilidad sencilla en Python que encuentra archivos de Nintendo 64 y los empaqueta en ZIP.</p>
-<a href="https://github.com/Dr3amyBerry/N64Compress"><b>Ver código →</b></a>
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 <h3>🤖 <a href="https://github.com/Dr3amyBerry/Dreamy-Bot">Dreamy-Bot</a></h3>
 <p>Uno de mis primeros proyectos públicos: un bot para Discord desarrollado en Python. Parte de mi recorrido aprendiendo a programar.</p>
 <a href="https://github.com/Dr3amyBerry/Dreamy-Bot"><b>Ver código →</b></a>
