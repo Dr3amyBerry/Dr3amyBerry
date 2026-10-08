@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="135" viewBox="0 0 1200 135" role="img" aria-label="Keep building. Make it real.">
-<defs><linearGradient id="bg"><stop stop-color="#0C1525"/><stop offset="1" stop-color="#16132D"/></linearGradient><linearGradient id="a"><stop stop-color="#50DFF7"/><stop offset="1" stop-color="#AA8FFF"/></linearGradient></defs>
-<rect x="1" y="1" width="1198" height="133" rx="16" fill="url(#bg)" stroke="#2E3959" stroke-width="2"/>
-<circle cx="71" cy="67" r="27" fill="none" stroke="url(#a)" stroke-width="3"/><path d="M59 66l9 10 19-22" fill="none" stroke="#6FE6F6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="119" y="61" fill="#F0F5FF" font-family="Segoe UI,Inter,Arial,sans-serif" font-weight="700" font-size="31">Keep building. Make it real.</text>
-<text x="120" y="92" fill="#9AA8C5" font-family="Consolas,Monaco,monospace" font-size="16">DR3AMYBERRY  /  DESIGN. BUILD. SHIP.</text>
-<text x="1130" y="77" text-anchor="end" fill="#75D6EB" font-family="Consolas,Monaco,monospace" font-size="17">rigorcore.com</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="154" viewBox="0 0 1200 154" role="img" aria-label="Sigue construyendo. Hazlo realidad.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#07120d"/><stop offset="1" stop-color="#191227"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5bff72"/><stop offset="1" stop-color="#a16dff"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="150" rx="19" fill="url(#bg)" stroke="#5bff72" stroke-opacity=".29" stroke-width="2"/>
+<circle cx="80" cy="77" r="27" fill="none" stroke="url(#accent)" stroke-width="4"/><path d="M68 76l9 10 18-20" fill="none" stroke="#67ff81" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="130" y="68" fill="#f4fff6" font-family="Segoe UI,Arial,sans-serif" font-weight="750" font-size="32">Sigue construyendo. Hazlo realidad.</text>
+<text x="131" y="102" fill="#a9c4b0" font-family="Consolas,Monaco,monospace" font-size="16" letter-spacing=".6">DR3AMYBERRY  /  CREAR · APRENDER · DESARROLLAR</text>
+<text x="1134" y="85" text-anchor="end" fill="#5bff72" font-family="Consolas,Monaco,monospace" font-size="18">rigorcore.com</text>
 </svg>
