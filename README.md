@@ -5,7 +5,6 @@
 <a href="https://rigorcore.com">
   <img src="./assets/hero.png" width="100%" alt="RigorCore: avatar cúbico vestido de morado y gato con auriculares verdes" />
 </a>
-
 <a href="https://rigorcore.com"><img alt="Página de RigorCore" src="https://img.shields.io/badge/RIGORCORE-Sitio%20web-101b14?style=for-the-badge&logo=googlechrome&logoColor=64ff7a&labelColor=141c17" /></a>
 <a href="https://github.com/Dr3amyBerry?tab=repositories"><img alt="Mis repositorios" src="https://img.shields.io/badge/PROYECTOS-Ver%20repositorios-101b14?style=for-the-badge&logo=github&logoColor=aa78ff&labelColor=141c17" /></a>
 <a href="mailto:contact@rigorcore.com"><img alt="Contacto" src="https://img.shields.io/badge/CONTACTO-Escríbeme-101b14?style=for-the-badge&logo=gmail&logoColor=64ff7a&labelColor=141c17" /></a>
