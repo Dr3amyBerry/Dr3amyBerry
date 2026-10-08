@@ -68,13 +68,9 @@ Estas son algunas de las herramientas que utilizo o exploro en mis proyectos.
 
 **Mi actividad en GitHub:** [repositorios](https://github.com/Dr3amyBerry?tab=repositories) · [contribuciones](https://github.com/Dr3amyBerry) · [logros](https://github.com/Dr3amyBerry?tab=achievements)
 
-#### 🐍 Mi serpiente de contribuciones
-
 <div align="center">
   <img src="./assets/snake-dark.svg" width="100%" alt="Una serpiente morada recorre mis contribuciones de GitHub sobre una cuadrícula verde" />
 </div>
-
-<sub>Animación generada con <a href="https://github.com/Platane/snk">Platane/snk</a>. Se actualiza automáticamente cada día mediante GitHub Actions. Si aún no aparece, debe completarse la primera ejecución del workflow.</sub>
 
 ### `04 / MÁS SOBRE MI FORMA DE TRABAJAR`
 
@@ -92,7 +88,5 @@ Siempre encuentro algo nuevo que aprender, desde animaciones e interfaces hasta 
 <div align="center">
 
 <a href="https://rigorcore.com"><img src="./assets/footer.svg" width="100%" alt="Sigue construyendo. Hazlo realidad. RigorCore" /></a>
-
-<sub>Hecho con Markdown y recursos SVG propios · Verde neón, morado y negro · Sin secretos ni servicios privados.</sub>
 
 </div>
