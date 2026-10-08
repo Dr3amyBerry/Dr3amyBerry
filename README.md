@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Dr3amyBerry — from an idea to a product that works. Full-stack, mobile and product engineering." />
+<img src="./assets/hero.png" width="100%" alt="Banner RigorCore con avatar cúbico de ropa morada y mascota felina con auriculares verdes." />
 
 <br />
 
