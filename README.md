@@ -1,107 +1,97 @@
-<!--
-  Dr3amyBerry / GitHub profile
-  Design system: midnight blue, electric cyan, soft violet.
-  Original SVG illustrations are versioned in ./assets.
-  No credentials, private project links or repository secrets are required.
--->
+<!-- Perfil público de Dr3amyBerry. Diseño negro, verde neón y morado, inspirado en el banner de RigorCore. -->
 
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Banner RigorCore con avatar cúbico de ropa morada y mascota felina con auriculares verdes." />
-
-<br />
-
-<a href="https://rigorcore.com"><img alt="RigorCore website" src="https://img.shields.io/badge/RIGORCORE-Visit%20website-101B31?style=for-the-badge&logo=googlechrome&logoColor=73E5F6&labelColor=111A2D" /></a>
-<a href="https://github.com/Dr3amyBerry?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/EXPLORE-My%20projects-101B31?style=for-the-badge&logo=github&logoColor=C5B4FF&labelColor=111A2D" /></a>
-<a href="mailto:contact@rigorcore.com"><img alt="Contact RigorCore" src="https://img.shields.io/badge/LET'S%20CONNECT-Email-101B31?style=for-the-badge&logo=gmail&logoColor=73E5F6&labelColor=111A2D" /></a>
+<a href="https://rigorcore.com">
+  <img src="./assets/hero.png" width="100%" alt="RigorCore: avatar cúbico vestido de morado y gato con auriculares verdes" />
+</a>
 
 <br /><br />
 
-**Software is more than code. It is an idea, a system, and an experience.**
+<a href="https://rigorcore.com"><img alt="Página de RigorCore" src="https://img.shields.io/badge/RIGORCORE-Sitio%20web-101b14?style=for-the-badge&logo=googlechrome&logoColor=64ff7a&labelColor=141c17" /></a>
+<a href="https://github.com/Dr3amyBerry?tab=repositories"><img alt="Mis repositorios" src="https://img.shields.io/badge/PROYECTOS-Ver%20repositorios-101b14?style=for-the-badge&logo=github&logoColor=aa78ff&labelColor=141c17" /></a>
+<a href="mailto:contact@rigorcore.com"><img alt="Contacto" src="https://img.shields.io/badge/CONTACTO-Escríbeme-101b14?style=for-the-badge&logo=gmail&logoColor=64ff7a&labelColor=141c17" /></a>
 
-<sub>Creo productos digitales y exploro nuevas formas de convertir ideas en software real.</sub>
+<br /><br />
+
+# ¡Hola! Soy Dr3amyBerry 👋
+
+**Me gusta convertir ideas en software que se pueda usar de verdad.**
+
+Desarrollo web, aplicaciones móviles, backend y experiencias digitales con atención al diseño, la funcionalidad y los detalles.
 
 </div>
 
 ---
 
-### `01 / WHAT DRIVES ME`
+### `01 / UN POCO SOBRE MÍ`
 
-I work across **frontend, backend, mobile, and product design** — from the first concept to the details that make a product feel finished.
+Disfruto crear proyectos completos: desde el diseño de las pantallas hasta la arquitectura del sistema que hay detrás. Me gusta investigar tecnologías nuevas, resolver problemas reales y mejorar el resultado con cada versión.
 
-I care about clean architecture, thoughtful UX, useful automation, and software that remains maintainable after launch. My work spans **web platforms, mobile experiences, developer tools, and experimental engineering**.
+Mis intereses se centran en **desarrollo web y móvil**, **diseño de interfaces**, **automatización**, **herramientas para desarrolladores** y **proyectos experimentales**.
 
 <p align="center">
-  <img src="./assets/focus.svg" width="100%" alt="Focus areas: digital products, reliable systems and creative experiments." />
+  <img src="./assets/focus.svg" width="100%" alt="Creo productos digitales, desarrollo sistemas de calidad y exploro nuevas ideas" />
 </p>
 
-### `02 / SELECTED WORK`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://rigorcore.com">RigorCore</a></h3>
-      <p>Building practical digital products, platforms and experiences with an emphasis on quality, usability and scalability.</p>
-      <a href="https://rigorcore.com"><b>Explore website →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/Dr3amyBerry/Case-Recomp">Case-Recomp</a></h3>
-      <p>An independent experimental Android compatibility project for <i>Mystery Case Files: Huntsville</i>, using files supplied by the user. Currently in beta.</p>
-      <a href="https://github.com/Dr3amyBerry/Case-Recomp"><b>View repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗜️ <a href="https://github.com/Dr3amyBerry/N64Compress">N64Compress</a></h3>
-      <p>A small Python utility for packaging N64 ROM files into ZIP archives. Simple, focused tooling.</p>
-      <a href="https://github.com/Dr3amyBerry/N64Compress"><b>View repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Dr3amyBerry/Dreamy-Bot">Dreamy-Bot</a></h3>
-      <p>An early Python / Discord bot project — part of the journey that led me to building larger applications and systems.</p>
-      <a href="https://github.com/Dr3amyBerry/Dreamy-Bot"><b>View repository →</b></a>
-    </td>
-  </tr>
-</table>
-
-### `03 / TOOLKIT`
+### `02 / PROYECTOS DESTACADOS`
 
 <table>
 <tr>
-<td width="21%"><strong>WEB</strong></td>
-<td>TypeScript · JavaScript · React · Next.js · HTML/CSS</td>
+<td width="50%" valign="top">
+<h3>⚡ <a href="https://rigorcore.com">RigorCore</a></h3>
+<p>Mi espacio para crear productos, plataformas y experiencias digitales. Busco combinar tecnología, buenas interfaces y soluciones prácticas.</p>
+<a href="https://rigorcore.com"><b>Visitar sitio web →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🎮 <a href="https://github.com/Dr3amyBerry/Case-Recomp">Case-Recomp</a></h3>
+<p>Proyecto experimental de compatibilidad para Android de <i>Mystery Case Files: Huntsville</i>. Utiliza archivos proporcionados por el usuario y continúa en fase beta.</p>
+<a href="https://github.com/Dr3amyBerry/Case-Recomp"><b>Ver código →</b></a>
+</td>
 </tr>
 <tr>
-<td><strong>MOBILE</strong></td>
-<td>React Native · Expo · Kotlin</td>
-</tr>
-<tr>
-<td><strong>BACKEND</strong></td>
-<td>Node.js · Python · MongoDB · REST APIs</td>
-</tr>
-<tr>
-<td><strong>WORKFLOW</strong></td>
-<td>Git · GitHub · Linux · Docker · CI/CD</td>
+<td width="50%" valign="top">
+<h3>🗜️ <a href="https://github.com/Dr3amyBerry/N64Compress">N64Compress</a></h3>
+<p>Una utilidad sencilla en Python que encuentra archivos de Nintendo 64 y los empaqueta en ZIP.</p>
+<a href="https://github.com/Dr3amyBerry/N64Compress"><b>Ver código →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🤖 <a href="https://github.com/Dr3amyBerry/Dreamy-Bot">Dreamy-Bot</a></h3>
+<p>Uno de mis primeros proyectos públicos: un bot para Discord desarrollado en Python. Parte de mi recorrido aprendiendo a programar.</p>
+<a href="https://github.com/Dr3amyBerry/Dreamy-Bot"><b>Ver código →</b></a>
+</td>
 </tr>
 </table>
 
-<sub>These are technologies I use or explore in my projects — not a claim of mastery in every tool.</sub>
+### `03 / TECNOLOGÍAS Y ACTIVIDAD`
 
-### `04 / ACTIVITY & OPEN SOURCE`
+Estas son algunas de las herramientas que utilizo o exploro en mis proyectos.
 
-I enjoy practical experimentation, contributing improvements and learning through real projects.
+<table>
+<tr><td width="23%"><b>WEB</b></td><td>JavaScript · TypeScript · React · Next.js · HTML · CSS</td></tr>
+<tr><td><b>MÓVIL</b></td><td>React Native · Expo · Kotlin</td></tr>
+<tr><td><b>BACKEND</b></td><td>Node.js · Python · MongoDB · API REST</td></tr>
+<tr><td><b>HERRAMIENTAS</b></td><td>Git · GitHub · Linux · Docker · CI/CD</td></tr>
+</table>
 
-- **Projects and code:** [Public repositories](https://github.com/Dr3amyBerry?tab=repositories)
-- **Open-source activity:** [Contributions and pull requests](https://github.com/Dr3amyBerry)
-- **Achievements:** [GitHub achievement collection](https://github.com/Dr3amyBerry?tab=achievements)
+**Mi actividad en GitHub:** [repositorios](https://github.com/Dr3amyBerry?tab=repositories) · [contribuciones](https://github.com/Dr3amyBerry) · [logros](https://github.com/Dr3amyBerry?tab=achievements)
+
+#### 🐍 Mi serpiente de contribuciones
+
+<div align="center">
+  <img src="./assets/snake-dark.svg" width="100%" alt="Una serpiente morada recorre mis contribuciones de GitHub sobre una cuadrícula verde" />
+</div>
+
+<sub>Animación generada con <a href="https://github.com/Platane/snk">Platane/snk</a>. Se actualiza automáticamente cada día mediante GitHub Actions. Si aún no aparece, debe completarse la primera ejecución del workflow.</sub>
+
+### `04 / MÁS SOBRE MI FORMA DE TRABAJAR`
 
 <details>
-<summary><b>More about my work / Un poco más sobre mí</b></summary>
-<br />
+<summary><b>Leer un poco más</b></summary>
 
-My approach is simple: **understand the problem, design carefully, implement cleanly, test what matters, and keep improving.** I enjoy solving problems where engineering and experience design meet.
+Me gusta comenzar por entender el problema, planificar una solución y cuidar tanto la interfaz como la lógica interna. Prefiero construir con orden, documentar los cambios y revisar lo que se puede mejorar antes de dar algo por terminado.
 
-**En español:** Me gusta construir proyectos completos, no solo demostraciones. Disfruto trabajar tanto en interfaces como en infraestructura, investigar tecnologías nuevas y mejorar el rendimiento y la experiencia del usuario.
+Siempre encuentro algo nuevo que aprender, desde animaciones e interfaces hasta rendimiento, arquitectura y herramientas que hacen más sencillo el trabajo diario.
 
 </details>
 
@@ -109,8 +99,8 @@ My approach is simple: **understand the problem, design carefully, implement cle
 
 <div align="center">
 
-<a href="https://rigorcore.com"><img src="./assets/footer.svg" width="100%" alt="Keep building. Make it real. RigorCore." /></a>
+<a href="https://rigorcore.com"><img src="./assets/footer.svg" width="100%" alt="Sigue construyendo. Hazlo realidad. RigorCore" /></a>
 
-<sub>Built with Markdown + original SVG artwork · Designed to work without tokens, private APIs or scheduled workflows.</sub>
+<sub>Hecho con Markdown y recursos SVG propios · Verde neón, morado y negro · Sin secretos ni servicios privados.</sub>
 
 </div>
