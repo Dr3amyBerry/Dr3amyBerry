@@ -47,7 +47,12 @@ Mis intereses se centran en **desarrollo web y móvil**, **diseño de interfaces
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+<h3>🛠️ <a href="https://github.com/Dr3amyBerry/RepoHealthChecker">RepoHealthChecker</a></h3>
+<p>Herramienta CLI en Python 3.11+ que evalúa el mantenimiento de repositorios GitHub: documentación, licencia, políticas, CI y actividad. Genera informes y realiza únicamente consultas de lectura a la API.</p>
+<a href="https://github.com/Dr3amyBerry/RepoHealthChecker"><b>Ver código →</b></a>
+</td>
+<td width="50%" valign="top">
 <h3>🤖 <a href="https://github.com/Dr3amyBerry/Dreamy-Bot">Dreamy-Bot</a></h3>
 <p>Uno de mis primeros proyectos públicos: un bot para Discord desarrollado en Python. Parte de mi recorrido aprendiendo a programar.</p>
 <a href="https://github.com/Dr3amyBerry/Dreamy-Bot"><b>Ver código →</b></a>
